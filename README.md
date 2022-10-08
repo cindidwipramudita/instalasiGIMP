@@ -1,7 +1,7 @@
 # GIMP
 
 1. [Instalasi](#instalasi)
-2. [Penugasan](#tugas-mandiri)
+2. [Penugasan](#penugasan)
 
 <div style="page-break-after: always;"></div>
 
