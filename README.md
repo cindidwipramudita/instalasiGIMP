@@ -14,7 +14,7 @@
 1. Download file instalasi melalui link di atas.
 2. Setelah selesai, buka file instalasi dan install.
 
-![tampilanInstalasi](image/tampilaninstalasi.png)
+![tampilanInstalasi](image/tampilaninstalasi.jpg)
 
 3. Tunggu sampai proses instalasi selesai.
 
