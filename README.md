@@ -14,13 +14,13 @@
 1. Download file instalasi melalui link di atas.
 2. Setelah selesai, buka file instalasi dan install.
 
-![tampilanInstalasi](img/tampilaninstalasi.png)
+![tampilanInstalasi](image/tampilaninstalasi.png)
 
 3. Tunggu sampai proses instalasi selesai.
 
-![prosesInstalasi](img/prosesInstalasi1.png)
+![prosesInstalasi](image/prosesInstalasi1.png)
 
-![prosesInstalasi2](img/prosesInstalasi2.png)
+![prosesInstalasi2](image/prosesInstalasi2.png)
 
 ## Penugasan
 
